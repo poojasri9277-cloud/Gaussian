@@ -65,7 +65,7 @@ RegisterNumber:
     ###  print('X%d = %0.2f'% (i,x[i]),end=' ')
 
 ## Output:
-![gaussian elimination]()
+<img width="898" height="825" alt="image" src="https://github.com/user-attachments/assets/32b2064d-860b-45e6-9745-c3f00256b4ec" />
 
 
 ## Result:
